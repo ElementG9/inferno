@@ -1,0 +1,30 @@
+{
+  "name": "inferno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElementG9/inferno.git"
+  },
+  "keywords": [
+    "Inferno"
+  ],
+  "author": "ElementG9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElementG9/inferno/issues"
+  },
+  "homepage": "https://github.com/ElementG9/inferno#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "compression": "^1.7.4",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "pug": "^2.0.3"
+  }
+}
